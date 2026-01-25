@@ -45,7 +45,7 @@ if intersection == "gauche":
 
 
         if code != coffre_fort:
-            print("Mauvaise réponse. Un piège s'est ouvert en dessous de vos pieds et vous êtes TOMBÉ dans des pics d'aciers.")
+            print("Mauvaise réponse. Un piège s'est ouvert en dessous de vos pieds et vous êtes TOMBÉS dans des pics d'aciers.")
             print("GAME OVER")
 
         else:
@@ -198,10 +198,11 @@ si vous voulez les espionner pour être sur de leur bonnes intentions tapez <<no
 
                 if coffre_fort != code:
                     print(
-                        "Mauvaise réponse. Un piège s'est ouvert en dessous de vos pieds et vous êtes TOMBÉ dans des pics d'aciers.")
+                        "Mauvaise réponse. Un piège s'est ouvert en dessous de vos pieds et vous êtes TOMBÉS dans des pics d'aciers.")
                     print("GAME OVER")
 
                 else:
                     print('''Bonne réponse!
 Vous entrez dans la pièce et vous trouvez le trésor.
 Bien joué!!!''')
+
