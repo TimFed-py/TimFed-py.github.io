@@ -206,3 +206,5 @@ si vous voulez les espionner pour être sur de leur bonnes intentions tapez <<no
 Vous entrez dans la pièce et vous trouvez le trésor.
 Bien joué!!!''')
 
+
+print("Programme créé par Timur Fedorenko")
