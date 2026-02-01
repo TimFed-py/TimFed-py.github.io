@@ -92,7 +92,7 @@ Bien joué!!!''')
 
     elif fee == "non":
         print('''Malheureusement, pendant que vous êtiez en train de les espionners pour être sûr de leurs bonnes intentions, elles ont vu les buissons bouger.
-        Donc croyant que vous êtiez une quelconque bête sauvage, elles vous on transformé en pousière. Ne sachant pas que vous vouliez seulement leurs parler.''')
+Donc croyant que vous êtiez une quelconque bête sauvage, elles vous on transformé en pousière. Ne sachant pas que vous vouliez seulement leurs parler.''')
     else:
         print("Vous avez écrit une réponse invalide. Retapez.")
         print("Vous entrez dans une forêt enchantée. ")
@@ -210,5 +210,6 @@ Bien joué!!!''')
 print('''
 
 Ce programme a été créé par Timur Fedorenko''')
+
 
 
