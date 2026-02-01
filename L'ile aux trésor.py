@@ -207,5 +207,8 @@ Vous entrez dans la pièce et vous trouvez le trésor.
 Bien joué!!!''')
 
 
-print("Ce programme a été créé par Timur Fedorenko")
+print('''
+
+Ce programme a été créé par Timur Fedorenko''')
+
 
